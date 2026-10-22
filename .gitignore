@@ -1,0 +1,24 @@
+# Checkpoints, datasets, and outputs
+*.pth
+*.pt
+*.ckpt
+data/
+outputs/
+eval_results/
+demo_tmp/
+
+# Python and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.o
+build/
+dist/
+*.egg-info/
+.venv/
+
+# Editor and local files
+.vscode/
+.idea/
+.env
+*.log

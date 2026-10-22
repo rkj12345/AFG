@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use AFG, please cite our paper."
+title: "Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction"
+authors:
+  - family-names: Ren
+    given-names: Kejun
+  - family-names: Jin
+    given-names: Lei
+  - family-names: Huang
+    given-names: Tianxin
+  - family-names: Xu
+    given-names: Lianming
+  - family-names: Wang
+    given-names: Li
+url: "https://arxiv.org/abs/2605.16981"
